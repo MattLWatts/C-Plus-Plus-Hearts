@@ -1,0 +1,98 @@
+﻿  Card.cpp
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\card.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\card.cpp(19): warning C4552: '!=': result of expression not used
+  Container.cpp
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\container.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\container.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\container.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\container.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Deck.cpp
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\deck.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\deck.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\deck.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\deck.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\container.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\container.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\deck.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\deck.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  GameManager.cpp
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\gamemanager.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\gamemanager.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\hand.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\hand.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\deck.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\deck.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\deck.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\container.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\container.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\gamemanager.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\table.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Hand.cpp
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\hand.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\hand.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\deck.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\deck.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\deck.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\container.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\container.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\gamemanager.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\gamemanager.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\gamemanager.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\table.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\hand.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  HandAi.cpp
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\handai.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\hand.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\hand.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\deck.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\deck.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\deck.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\container.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\container.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\handai.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  HandPlayer.cpp
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\hand.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\hand.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\deck.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\deck.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\deck.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\container.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\container.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\handplayer.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  MainScript.cpp
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\mainscript.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\mainscript.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\mainscript.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\mainscript.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\deck.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\deck.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\deck.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\container.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\container.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\mainscript.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\table.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\mainscript.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\hand.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\hand.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\mainscript.cpp(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\handai.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\mainscript.cpp(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\mainscript.cpp(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\gamemanager.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\gamemanager.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\gamemanager.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\mainscript.cpp(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\mainscript.cpp(11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\mainscript.cpp(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\mainscript.cpp(13): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\mainscript.cpp(83): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Table.cpp
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\table.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\deck.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\deck.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\deck.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\container.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\container.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matt watts\desktop\heartsfullgame\hearts - 001\table.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Hearts - 001.vcxproj -> C:\Users\Matt Watts\Desktop\HeartsFullGame\x64\Debug\Hearts - 001.exe
